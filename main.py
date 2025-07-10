@@ -11,7 +11,7 @@ def main():
 
     not_following_back = [user for user in following if user not in followers]
 
-    print("🔍 Users you follow who don't follow you back:")
+    print("Users you follow who don't follow you back:")
     for user in not_following_back:
         print(user)
 
