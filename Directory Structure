@@ -1,0 +1,10 @@
+instagram-nonfollowers-checker/
+│
+├── data/
+│   ├── followers.html
+│   └── following.html
+│
+├── main.py
+├── requirements.txt
+├── .gitignore
+└── README.md
